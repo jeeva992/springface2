@@ -76,9 +76,11 @@ img{
 .footer-list {
   padding: 0.5rem 0;
   list-style: none;
+  color: white;
 }
 .footer-list li {
   font-weight: 500;
+  color: white;
   display: inline-block;
   padding: 0rem 0.2rem;
 }
